@@ -1,81 +1,97 @@
-Particulars ,Year,GWh
-Peak Demand (MW),2004,515.24
-Peak Demand (MW),2005,557.53
-Peak Demand (MW),2006,557.53
-Peak Demand (MW),2007,648.39
-Peak Demand (MW),2008,721.73
-Peak Demand (MW),2009,812.5
-Peak Demand (MW),2010,885.28
-Peak Demand (MW),2011,946.1
-Peak Demand (MW),2012,1026.65
-Peak Demand (MW),2013*,1094.62
-NEA Hydor Generation,2004,1345.46
-NEA Hydor Generation,2005,1522.9
-NEA Hydor Generation,2006,1568.55
-NEA Hydor Generation,2007,1747.42
-NEA Hydor Generation,2008,1793.14
-NEA Hydor Generation,2009,1839.53
-NEA Hydor Generation,2010,2108.65
-NEA Hydor Generation,2011,2122.08
-NEA Hydor Generation,2012,2357.43
-NEA Hydor Generation,2013*,2273.14
-NEA Thermal Generation,2004,9.92
-NEA Thermal Generation,2005,13.67
-NEA Thermal Generation,2006,16.1
-NEA Thermal Generation,2007,13.31
-NEA Thermal Generation,2008,9.17
-NEA Thermal Generation,2009,9.06
-NEA Thermal Generation,2010,13.01
-NEA Thermal Generation,2011,3.4
-NEA Thermal Generation,2012,1.56
-NEA Thermal Generation,2013*,18.82
-NEA Generation Total (GWh),2004,1355.38
-NEA Generation Total (GWh),2005,1536.57
-NEA Generation Total (GWh),2006,1584.65
-NEA Generation Total (GWh),2007,1760.73
-NEA Generation Total (GWh),2008,1802.31
-NEA Generation Total (GWh),2009,1848.59
-NEA Generation Total (GWh),2010,2121.66
-NEA Generation Total (GWh),2011,2125.48
-NEA Generation Total (GWh),2012,2358.99
-NEA Generation Total (GWh),2013*,2291.96
-Power Purchase from India,2004,186.68
-Power Purchase from India,2005,241.39
-Power Purchase from India,2006,266.23
-Power Purchase from India,2007,328.83
-Power Purchase from India,2008,425.22
-Power Purchase from India,2009,356.46
-Power Purchase from India,2010,638.68
-Power Purchase from India,2011,694.05
-Power Purchase from India,2012,746.07
-Power Purchase from India,2013*,792.52
-Power Purchase from IPPs,2004,838.84
-Power Purchase from IPPs,2005,864.8
-Power Purchase from IPPs,2006,930.04
-Power Purchase from IPPs,2007,962.26
-Power Purchase from IPPs,2008,958.42
-Power Purchase from IPPs,2009,925.74
-Power Purchase from IPPs,2010,591.43
-Power Purchase from IPPs,2011,1038.84
-Power Purchase from IPPs,2012,1073.57
-Power Purchase from IPPs,2013*,1175.97
-Power Purchase Total (GWh),2004,1025.52
-Power Purchase Total (GWh),2005,1106.18
-Power Purchase Total (GWh),2006,1196.27
-Power Purchase Total (GWh),2007,1291.09
-Power Purchase Total (GWh),2008,1383.64
-Power Purchase Total (GWh),2009,1282.2
-Power Purchase Total (GWh),2010,1230.11
-Power Purchase Total (GWh),2011,1732.89
-Power Purchase Total (GWh),2012,1819.64
-Power Purchase Total (GWh),2013*,1968.49
-Available Energy (GWh),2004,2380.9
-Available Energy (GWh),2005,2642.75
-Available Energy (GWh),2006,2780.92
-Available Energy (GWh),2007,3051.82
-Available Energy (GWh),2008,3185.95
-Available Energy (GWh),2009,3130.79
-Available Energy (GWh),2010,3351.77
-Available Energy (GWh),2011,3858.37
-Available Energy (GWh),2012,4178.63
-Available Energy (GWh),2013*,4260.45
+Particulars ,Year AD,Year BS,GWh
+Peak Demand (MW),2004,2061,515.24
+Peak Demand (MW),2005,2062,557.53
+Peak Demand (MW),2006,2063,557.53
+Peak Demand (MW),2007,2064,648.39
+Peak Demand (MW),2008,2065,721.73
+Peak Demand (MW),2009,2066,812.5
+Peak Demand (MW),2010,2067,885.28
+Peak Demand (MW),2011,2068,946.1
+Peak Demand (MW),2012,2069,1026.65
+Peak Demand (MW),2013,2070,1094.62
+Peak Demand (MW),2014,2071,1200.98
+Peak Demand (MW),2015*,2072,1291.8
+NEA Hydor Generation,2004,2061,1345.46
+NEA Hydor Generation,2005,2062,1522.9
+NEA Hydor Generation,2006,2063,1568.55
+NEA Hydor Generation,2007,2064,1747.42
+NEA Hydor Generation,2008,2065,1793.14
+NEA Hydor Generation,2009,2066,1839.53
+NEA Hydor Generation,2010,2067,2108.65
+NEA Hydor Generation,2011,2068,2122.08
+NEA Hydor Generation,2012,2069,2357.43
+NEA Hydor Generation,2013,2070,2273.14
+NEA Hydor Generation,2014,2071,2288.23
+NEA Hydor Generation,2015*,2072,2365.65
+NEA Thermal Generation,2004,2061,9.92
+NEA Thermal Generation,2005,2062,13.67
+NEA Thermal Generation,2006,2063,16.1
+NEA Thermal Generation,2007,2064,13.31
+NEA Thermal Generation,2008,2065,9.17
+NEA Thermal Generation,2009,2066,9.06
+NEA Thermal Generation,2010,2067,13.01
+NEA Thermal Generation,2011,2068,3.4
+NEA Thermal Generation,2012,2069,1.56
+NEA Thermal Generation,2013,2070,18.82
+NEA Thermal Generation,2014,2071,9.65
+NEA Thermal Generation,2015*,2072,1.24
+NEA Generation Total (GWh),2004,2061,1355.38
+NEA Generation Total (GWh),2005,2062,1536.57
+NEA Generation Total (GWh),2006,2063,1584.65
+NEA Generation Total (GWh),2007,2064,1760.73
+NEA Generation Total (GWh),2008,2065,1802.31
+NEA Generation Total (GWh),2009,2066,1848.59
+NEA Generation Total (GWh),2010,2067,2121.66
+NEA Generation Total (GWh),2011,2068,2125.48
+NEA Generation Total (GWh),2012,2069,2358.99
+NEA Generation Total (GWh),2013,2070,2291.96
+NEA Generation Total (GWh),2014,2071,2297.88
+NEA Generation Total (GWh),2015*,2072,2366.88
+Power Purchase from India,2004,2061,186.68
+Power Purchase from India,2005,2062,241.39
+Power Purchase from India,2006,2063,266.23
+Power Purchase from India,2007,2064,328.83
+Power Purchase from India,2008,2065,425.22
+Power Purchase from India,2009,2066,356.46
+Power Purchase from India,2010,2067,638.68
+Power Purchase from India,2011,2068,694.05
+Power Purchase from India,2012,2069,746.07
+Power Purchase from India,2013,2070,792.52
+Power Purchase from India,2014,2071,1318.75
+Power Purchase from India,2015*,2072,1369.89
+Power Purchase from IPPs,2004,2061,838.84
+Power Purchase from IPPs,2005,2062,864.8
+Power Purchase from IPPs,2006,2063,930.04
+Power Purchase from IPPs,2007,2064,962.26
+Power Purchase from IPPs,2008,2065,958.42
+Power Purchase from IPPs,2009,2066,925.74
+Power Purchase from IPPs,2010,2067,591.43
+Power Purchase from IPPs,2011,2068,1038.84
+Power Purchase from IPPs,2012,2069,1073.57
+Power Purchase from IPPs,2013,2070,1175.97
+Power Purchase from IPPs,2014,2071,1070.47
+Power Purchase from IPPs,2015*,2072,1268.93
+Power Purchase Total (GWh),2004,2061,1025.52
+Power Purchase Total (GWh),2005,2062,1106.18
+Power Purchase Total (GWh),2006,2063,1196.27
+Power Purchase Total (GWh),2007,2064,1291.09
+Power Purchase Total (GWh),2008,2065,1383.64
+Power Purchase Total (GWh),2009,2066,1282.2
+Power Purchase Total (GWh),2010,2067,1230.11
+Power Purchase Total (GWh),2011,2068,1732.89
+Power Purchase Total (GWh),2012,2069,1819.64
+Power Purchase Total (GWh),2013,2070,1968.49
+Power Purchase Total (GWh),2014,2071,2389.21
+Power Purchase Total (GWh),2015*,2072,2638.81
+Available Energy (GWh),2004,2061,2380.9
+Available Energy (GWh),2005,2062,2642.75
+Available Energy (GWh),2006,2063,2780.92
+Available Energy (GWh),2007,2064,3051.82
+Available Energy (GWh),2008,2065,3185.95
+Available Energy (GWh),2009,2066,3130.79
+Available Energy (GWh),2010,2067,3351.77
+Available Energy (GWh),2011,2068,3858.37
+Available Energy (GWh),2012,2069,4178.63
+Available Energy (GWh),2013,2070,4260.45
+Available Energy (GWh),2014,2071,4687.09
+Available Energy (GWh),2015*,2072,5005.69
